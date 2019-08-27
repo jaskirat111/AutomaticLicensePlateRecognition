@@ -7,4 +7,6 @@ The Dataset used for training is https://cc-uploads.s3.amazonaws.com/open_links/
 
 ALPR.ipynb File Contains the working Of the Project 
 
+![](car_detected1.png)
+
 
