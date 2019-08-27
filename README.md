@@ -5,4 +5,6 @@ The project developed using TensorFlow to detect the License Plate from a car an
 
 The Dataset used for training is https://cc-uploads.s3.amazonaws.com/open_links/HumAIn+2019/vehicle-number-plate-detection+Datasets.zip
 
+ALPR.ipynb File Contains the working Of the Project 
+
 
