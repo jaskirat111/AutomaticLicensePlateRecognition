@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tn</folder>
+	<filename>image91.jpg</filename>
+	<path>C:\Users\codezero\Downloads\tn\image91.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>262</width>
+		<height>192</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>T</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>136</ymin>
+			<xmax>109</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+</annotation>
