@@ -5,7 +5,7 @@ The project developed using TensorFlow to detect the License Plate from a car an
 
 The Dataset used for training is https://cc-uploads.s3.amazonaws.com/open_links/HumAIn+2019/vehicle-number-plate-detection+Datasets.zip
 
-ALPR.ipynb File Contains the implementation Of the Project 
+ALPR(1).ipynb and ALPR(2).ipynb File Contains the implementation Of the Project 
 
 
 FASTER RCNN INVEPTION V2 Model is used to train the images . The Accuracy of the Model is 99% and the loss is less then 0.05.
