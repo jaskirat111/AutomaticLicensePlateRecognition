@@ -15,6 +15,13 @@ OPENCV is used for preprocessing the images
 
 Pytesseract (Google's Tesseract-OCR Engine) is used for optical Character Recognition.
 
+If you use results produced by my code in any publication, please cite my paper:
+
+Singh, Jaskirat, and Bharat Bhushan. 2019. “Real Time Indian License Plate Detection Using Deep Neural Networks and Optical Character Recognition Using LSTM Tesseract.” 2019 International Conference on Computing, Communication, and Intelligent Systems (ICCCIS). doi:10.1109/icccis48478.2019.8974469.
+
+
+link of research paper: https://ieeexplore.ieee.org/abstract/document/8974469
+
 Here are few Examples of License Plate Recognition and Detection:
 
 ![](car_detected1.png)
