@@ -28,7 +28,7 @@ Instances of challenging oblique License Plates present in the proposed evaluati
 Cropped License Plates after License Plate Detection and extraction from different images:
 ![](croppedLP.png)
 
-After Pre-Processing Of The Cropped License Plates:
+License Plate Preprocessing of the Cropped License Plate using 3 method’s : gray Scaling, Gaussian Blurring, Binarization
 ![](croppedLPAfterProcessing.png)
 
 Here are few Examples of License Plate Recognition and Detection:
