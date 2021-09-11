@@ -22,16 +22,16 @@ Singh, Jaskirat, and Bharat Bhushan. 2019. “Real Time Indian License Plate Det
 
 link of research paper: https://ieeexplore.ieee.org/abstract/document/8974469
 
-Instances of challenging oblique License Plates present in the proposed evaluation dataset:
+## Instances of challenging oblique License Plates present in the proposed evaluation dataset:
 ![](LicensePlateimages.png)
 
-Cropped License Plates after License Plate Detection and extraction from different images:
+## Cropped License Plates after License Plate Detection and extraction from different images:
 ![](croppedLP.png)
 
-License Plate Preprocessing of the Cropped License Plate using 3 method’s : gray Scaling, Gaussian Blurring, Binarization
+## License Plate Preprocessing of the Cropped License Plate using 3 method’s : gray Scaling, Gaussian Blurring, Binarization
 ![](croppedLPAfterProcessing.png)
 
-Here are few Examples of License Plate Recognition and Detection:
+## Here are few Examples of License Plate Recognition and Detection:
 
 ![](car_detected1.png)
 
